@@ -1,3 +1,5 @@
+
+
 require 'spec_helper'
 
 describe 'Dog' do
@@ -69,3 +71,4 @@ describe 'Person' do
     end
   end
 end
+
